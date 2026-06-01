@@ -289,8 +289,7 @@ Fetches live prices + full historical prices, computes metrics and history, rend
 - 6 metric cards across 2 rows
 - Plotly area chart (trend line) with buy/sell markers overlaid
 
----
-
+--- 
 ## How to Run
 
 ```bash
